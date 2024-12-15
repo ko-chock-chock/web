@@ -52,7 +52,7 @@ jobs:
 
           destination-github-username: 630yjl
 
-          destination-repository-name: ko-chock-chok-web
+          destination-repository-name: ko-chock-chock-web
 
           user-email: ${{ secrets.EMAIL }}
 
