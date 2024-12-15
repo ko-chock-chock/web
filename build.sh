@@ -13,3 +13,6 @@ echo "Output directory contents:"
 ls -la ./output
 
 echo "Build script completed successfully."
+
+
+
