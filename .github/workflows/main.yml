@@ -50,7 +50,7 @@ jobs:
 
           source-directory: 'output'
 
-          destination-github-username: yunjeongLim
+          destination-github-username: 630yjl
 
           destination-repository-name: ko-chock-chock-web
 
